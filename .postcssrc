@@ -1,0 +1,9 @@
+us full access to the latest CSS features:
+
+{
+  "plugins": {
+    "postcss-preset-env": {
+      "stage": 0
+    }
+  }
+}
